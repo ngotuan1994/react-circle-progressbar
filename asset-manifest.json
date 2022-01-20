@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-circle-progressbar/static/css/main.e387c918.css",
+    "main.js": "/react-circle-progressbar/static/js/main.9c437fa4.js",
+    "static/js/787.3fe83cfc.chunk.js": "/react-circle-progressbar/static/js/787.3fe83cfc.chunk.js",
+    "index.html": "/react-circle-progressbar/index.html",
+    "main.e387c918.css.map": "/react-circle-progressbar/static/css/main.e387c918.css.map",
+    "main.9c437fa4.js.map": "/react-circle-progressbar/static/js/main.9c437fa4.js.map",
+    "787.3fe83cfc.chunk.js.map": "/react-circle-progressbar/static/js/787.3fe83cfc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e387c918.css",
+    "static/js/main.9c437fa4.js"
+  ]
+}
